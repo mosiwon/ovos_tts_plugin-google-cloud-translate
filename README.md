@@ -1,6 +1,6 @@
 ###
 ```bash
-pip install git+https://github.com/mosiwon/ovos_stt_plugin-google-cloud-translate.git
+pip install git+https://github.com/mosiwon/ovos_tts_plugin-google-cloud-translate.git
 ```
 
 ## Configuration
